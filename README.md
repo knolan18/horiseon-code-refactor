@@ -4,13 +4,11 @@ Horiseon, a digital marketing company, has provided starting code that requires 
 
 
 ## User Story
-
 ```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
-
 ## Acceptance Criteria
 
 ```
@@ -26,7 +24,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
@@ -35,3 +32,5 @@ The following image shows the web application's appearance and functionality:
 
 
 ## Link to Deployed Site
+
+https://knolan18.github.io/horiseon-code-refactor/
